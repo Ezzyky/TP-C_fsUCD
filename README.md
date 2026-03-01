@@ -57,7 +57,9 @@ Command Prompt / Terminal
 
 To verify GCC installation:
 
-``` gcc --version ```
+```bash
+gcc --version
+```
 
 ## 🎯 Purpose of This Repository
 
