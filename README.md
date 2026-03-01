@@ -18,6 +18,7 @@ The purpose of this repository is to:
 Each TP folder contains several exercises solved during practical sessions.
 
 ## 📂 Project Structure
+```bash
 .
 ├── TP1/        # Exercises from TD1
 ├── TP2/        # Exercises from TD2
@@ -25,7 +26,7 @@ Each TP folder contains several exercises solved during practical sessions.
 ├── TP4/        # Exercises from TD4
 ├── LICENSE.txt
 └── README.md
-
+```
 ## 🧠 Topics Covered
 
 This project includes exercises on:
