@@ -8,8 +8,11 @@
 The purpose of this repository is to:
 
 .   Practice problem-solving using C
+
 .   Understand core programming concepts
+
 .   Apply algorithms seen in lectures
+
 .   Improve coding structure and logic
 
 Each TP folder contains several exercises solved during practical sessions.
@@ -26,15 +29,23 @@ Each TP folder contains several exercises solved during practical sessions.
 ```
 ## 🧠 Topics Covered
 
-.This project includes exercises on:
-.Basic input/output (printf, scanf)
-.Variables and data types
-.Conditional statements (if, switch)
-.Loops (for, while, do-while)
-.Functions
-.Arrays
-.Mathematical operations
-.Basic algorithms
+This project includes exercises on:
+
+Basic input/output (printf, scanf)
+
+Variables and data types
+
+Conditional statements (if, switch)
+
+Loops (for, while, do-while)
+
+Functions
+
+Arrays
+
+Mathematical operations
+
+Basic algorithms
 
 
 
