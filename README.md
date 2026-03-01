@@ -71,4 +71,4 @@ Programming progress tracking
 ## 📜 License
 
 This project is licensed under the MIT License.
-See LICENSE.txt for more details.
+See ```LICENSE.txt``` for more details.
